@@ -1,0 +1,2 @@
+# smallcwe
+test cwe
