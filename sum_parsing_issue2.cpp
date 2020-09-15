@@ -6,7 +6,7 @@ int sum_parsing_issue(int,int);
 
 int main(){
    int x, y;
-   cout<<"enter first number: ";
+   cout<<"enter first number: "
    cin>> x;
 
    cout<<"enter second number: ";
