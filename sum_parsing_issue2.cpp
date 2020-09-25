@@ -10,7 +10,7 @@ int main(){
    cin>> x;
 
    cout<<"enter second number: ";
-   cin>>
+   cin>>;
 
    cout<<"sum_parsing_issue of these two :"<<sum_parsing_issue(x,y)
    return 0;
