@@ -2,20 +2,6 @@
 #include <cmath>
 using namespace std;
 
-#define FALSE 0
-#define TR UE 1
-
-#if FALSE       /* Compliant */
-#endif 
-
-#if 10            /* Non-complaint */
-#endif
-
-#if ! defined ( X )       /* Compliant */
-#endif
-
-#if A > B              /* Compliant assuming A and B are numeric */
-#endif
 //Declaring the function sum
 int sum(int,int);
 
